@@ -4,7 +4,7 @@
 
 ---
 ### Sobre o projeto:
-Aplicação para resolver uma série de exercícios utilizando fastapi
+Aplicação para resolver uma série de exercícios utilizando fastapi, hugging face e langchain.
 
 ### Estrutura do projeto:
 ```./README.md``` - Este arquivo.
