@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+huggingface_hub
+sentencepiece
+python-dotenv
+langchain==0.3.7
+langchain_community
+langchain_openai
+langchain_google_genai
+langchain-huggingface
+pydantic-settings
